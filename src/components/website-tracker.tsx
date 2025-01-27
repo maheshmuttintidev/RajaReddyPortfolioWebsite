@@ -4,5 +4,7 @@ import React from "react";
 import WebsiteTracker from "react-website-tracker";
 
 export function WebsiteTrackerClient() {
-  return <WebsiteTracker websiteId="https://maheshmuttintidev.in" />;
+  return (
+    <WebsiteTracker websiteId="https://rajareddy-nagendla.maheshmuttintidev.in/" />
+  );
 }
